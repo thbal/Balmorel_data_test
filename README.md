@@ -1,5 +1,7 @@
 # README #
 
+My test data
+
 Data for the master branch of the [Balmorel framework](https://github.com/balmorelcommunity/Balmorel). Clone this repository into base/ for easy version control of both framework code and base data. Remember to rename the cloned folder from "Balmorel_data" to "data" for proper functioning. 
 
 ## Generating .inc files from Excel
