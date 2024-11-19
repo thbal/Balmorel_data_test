@@ -2,7 +2,7 @@ TABLE EMI_POLNA(YYY,GROUP,EMIPOLSET)  "Emission policy data; default for the 'LI
                                                                                                                                                                                                                                              
                                                                                                                                                                             ALL_SECTORS.LIM_CO2 ALL_SECTORS.LIM_SO2 ALL_SECTORS.LIM_NOX     
 * Units:                                                                                                                                                                     t CO2/year          t SO2/year          t NOx/year              
-*2050                                                                                                                                                                   		 EPS																																																																				
+2050                                                                                                                                                                   		 EPS																																																																				
 ;                                                                                                                                                                                                                                            
 *EMI_POLNA(YYY,GROUP,EMIPOLSET)=0;                                                                                                                                                                                                            
 *23580297
