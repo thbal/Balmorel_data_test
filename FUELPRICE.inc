@@ -115,3 +115,13 @@ FUELPRICE(YYY,AAA,FFF) = SUM(RRR, FUELPRICE1(YYY,RRR,FFF)*RRRAAA(RRR,AAA));
 * the values for  'DK1_large'  are used for all A:                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 FUELPRICE('2015',AAA,FFF)$(FUELPRICE('2015',AAA,FFF) EQ 0)=FUELPRICE('2015','DK1_large',FFF);                                                                                                                                                                                                                                                                                                                                                                                                       
 FUELPRICE(YYY,IA,FFF)$((YYY.val > 2014) and (FUELPRICE(YYY,IA,FFF) EQ 0))=FUELPRICE(YYY,'DK1_large',FFF);                                                                                                                                                                                                                                                                                                                                                                                           
+
+*Magic fuel
+*FUELPRICE(YYY,AAA,'COAL')=833.3; 
+*FUELPRICE1(YYY,RRR,'COAL')=833.3;
+*FUELPRICE(YYY,AAA,'NATGAS')=833.3; 
+*FUELPRICE1(YYY,RRR,'NATGAS')=833.3;
+FUELPRICE(YYY,AAA,'MAGICF')=833.3; 
+FUELPRICE1(YYY,RRR,'MAGICF')=833.3;
+FUELPRICE(YYY,AAA,'MAGICFH')=833.3; 
+FUELPRICE1(YYY,RRR,'MAGICFH')=833.3;

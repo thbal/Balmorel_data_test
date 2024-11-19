@@ -1,7 +1,9 @@
 * The set of all fuels:                                                            
                                                                                    
 SET FFF  'Fuels'                                                                   
-/                                                                                  
+/ 
+MAGICFH 
+MAGICF                                                                              
 NUCLEAR                                                                            
 NATGAS                                                                             
 COAL                                                                               
@@ -37,7 +39,8 @@ COAL_EXETS
 NATGAS_EXETS                                                                       
 FUELOIL_EXETS                                                                      
 LPG_EXETS                                                                          
-HEAVYFUELOIL_EXETS                                                                 
+HEAVYFUELOIL_EXETS     
+                                                           
                                                                                    
 *TopWaste fuels                                                                    
 BIOGAS_NET                                                                         
@@ -57,7 +60,9 @@ RETORTGAS
 ;                                                                                  
                                                                                    
 * File for holding fuel acronyms for the Balmorel model, version 3.01 (April 2009).
-ACRONYMS                                                                           
+ACRONYMS 
+MAGICFH
+MAGICF                                                                           
 NUCLEAR                                                                            
 NATGAS                                                                             
 COAL                                                                               
@@ -93,7 +98,7 @@ COAL_EXETS
 NATGAS_EXETS                                                                       
 FUELOIL_EXETS                                                                      
 LPG_EXETS                                                                          
-HEAVYFUELOIL_EXETS                                                                 
+HEAVYFUELOIL_EXETS                                                                
                                                                                    
 *TopWaste fuels                                                                    
 BIOGAS_NET                                                                         

@@ -1,5 +1,7 @@
 SET GGG  'All generation technologies'        
-/                                             
+/ 
+MAGICGH
+MAGICG                                           
 ACHEMA1_ST_NGAS_EXT                           
 ACHEMA2_ST_NGAS_EXT                           
 ADAM-1_ST_LIGNITE_EXT                         

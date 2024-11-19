@@ -1,5 +1,7 @@
 SET G(GGG)  'Generation technologies in the simulation'       
-/                                                             
+/ 
+MAGICGH
+MAGICG                                                           
 ACHEMA1_ST_NGAS_EXT                                           
 ACHEMA2_ST_NGAS_EXT                                           
 ADAM-1_ST_LIGNITE_EXT                                         
@@ -1289,7 +1291,7 @@ ZERA-8_ST_COAL_EXT
 ZIEL-1_ST_NGAS_BP                                             
 ZIEL-2_ST_COAL_BP                                             
 ZIEL-3_ST_NGAS_BP                                             
-ZIEL-4_ST_COAL_BP                                             
+ZIEL-4_ST_COAL_BP                                              
                                                               
                                                               
                                                               
