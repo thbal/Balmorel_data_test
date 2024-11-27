@@ -158,7 +158,7 @@ PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Acidification_prod_elec') = 2.40E-10;
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_PM_prod_elec') = 3.16E-15;
 *PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Resource_constr') = 9.62e01;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Resource_prod_elec') = 2.67E-13;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 2.94e3;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 3.29e3;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Acidification_prod_elec') = 2.40E-10;
 
 *Sensitivity analysis PV FRANCE
