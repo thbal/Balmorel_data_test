@@ -115,50 +115,50 @@ PB_LCA_DATA('STEAMTURBINE_SUBCRITICAL','NUCLEAR', 'GCND', 'LCA_Acidification_pro
 *PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 1.01e04;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Acidification_prod_elec') = 2.40E-10;
 
-*Data from https://www.sciencedirect.com/science/article/pii/S0927024821003202, PV GG China
+*Data from https://www.sciencedirect.com/science/article/pii/S0927024821003202, PV G-BS China
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE','GROUP_TECH') = SOLARPV;
 PB_LCA_DATA('SOLARPV','SUN','GSOLE','FUEL') = SUN;
 PB_LCA_DATA('SOLARPV','SUN','GSOLE','Generation_type') = GSOLE;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_CO2_constr') = 7.74e5; 
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_CO2_constr') = 8.36e5; 
 PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_CO2_prod_elec') = 3.03E-08; 
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ozone_depletion_constr') = 3.25E-02;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ozone_depletion_constr') = 4.31E-02;  
 PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ozone_depletion_prod_elec') = 2.00E-15; 
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_LU_constr') = 1.58e7; 
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_LU_constr') = 2.56e7; 
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_LU_prod_elec') = 1.74E-07;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_WU_constr') = 2.09e5;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_WU_constr') = 2.46e5;  
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_WU_prod_elec') = 1.55E-07;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Eutrophication_freshwater_constr') = 2.21e2;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Eutrophication_freshwater_constr') = 2.41e2;  
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Eutrophication_freshwater_prod_elec') = 4.54E-11;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ecotoxicity_freshwater_constr') = 2.68e7;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ecotoxicity_freshwater_constr') = 2.91e7;  
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Ecotoxicity_freshwater_prod_elec') = 8.92E-06;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_PM_constr') = 5.68E-02;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_PM_constr') =6.26E-02;  
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_PM_prod_elec') = 3.16E-15;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Resource_constr') = 6.09e01;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Resource_constr') = 9.62e01;  
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Resource_prod_elec') = 2.67E-13;
-PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 5.04e3;  
+PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 5.39e3;  
 PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Acidification_prod_elec') = 2.40E-10;
 
-*Data from https://www.sciencedirect.com/science/article/pii/S0927024821003202, PV GG EU
+*Data from https://www.sciencedirect.com/science/article/pii/S0927024821003202, PV G-BS EU
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE','GROUP_TECH') = SOLARPV;
 *PB_LCA_DATA('SOLARPV','SUN','GSOLE','FUEL') = SUN;
 *PB_LCA_DATA('SOLARPV','SUN','GSOLE','Generation_type') = GSOLE;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_CO2_constr') = 4.25e5; 
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_CO2_constr') = 4.87e5; 
 *PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_CO2_prod_elec') = 3.03E-08; 
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ozone_depletion_constr') = 4.64E-02;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ozone_depletion_constr') = 5.70E-02;  
 *PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ozone_depletion_prod_elec') = 2.00E-15; 
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_LU_constr') = 1.73e7; 
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_LU_constr') = 2.71e7; 
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_LU_prod_elec') = 1.74E-07;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_WU_constr') = 2.17e5;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_WU_constr') = 2.54e5;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_WU_prod_elec') = 1.55E-07;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Eutrophication_freshwater_constr') = 3.33e2;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Eutrophication_freshwater_constr') = 3.53e2;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Eutrophication_freshwater_prod_elec') = 4.54E-11;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ecotoxicity_freshwater_constr') = 1.58e7;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Ecotoxicity_freshwater_constr') = 1.82e7;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Ecotoxicity_freshwater_prod_elec') = 8.92E-06;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_PM_constr') = 2.08E-02;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_PM_constr') = 2.65E-02;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_PM_prod_elec') = 3.16E-15;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Resource_constr') = 6.09e01;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Resource_constr') = 9.62e01;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Resource_prod_elec') = 2.67E-13;
-*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 2.94e3;  
+*PB_LCA_DATA('SOLARPV','SUN','GSOLE','LCA_Acidification_constr') = 3.29e3;  
 *PB_LCA_DATA('SOLARPV','SUN', 'GSOLE', 'LCA_Acidification_prod_elec') = 2.40E-10;
 
 *Sensitivity analysis PV FRANCE
