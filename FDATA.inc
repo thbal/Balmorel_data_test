@@ -52,7 +52,7 @@ FUELOIL_EXETS                                                                   
 LPG_EXETS                                                                                                   LPG_EXETS          34                            
 HEAVYFUELOIL_EXETS                                                                                          HEAVYFUELOIL_EXETS 35                            
 COKE                                                                                                        COKE               36   106   1.428 0.003        
-RETORTGAS                                                                                                   RETORTGAS          37   56.8  0     0.001  
+RETORTGAS                                                                                                   RETORTGAS          37   56.8  0     0.001        
 MAGICF                                                                                                      MAGICF             38   0     0     0      
 MAGICFH                                                                                                     MAGICFH            39   0     0     0      
 ;                                                                                                                                                            
