@@ -25,7 +25,7 @@ HEAVYFUELOIL                                                                    
 ORIMULSION                                                                                                  ORIMULSION         8    80    1.337 0.002        
 SHALE                                                                                                       SHALE              9    102   1.428 0.003        
 PEAT                                                                                                        PEAT               10   107   0.24  0.003        
-MUNIWASTE                                                                                                   MUNIWASTE          11   0     0.156 0.004        
+MUNIWASTE                                                                                                   MUNIWASTE          11   6.9   0.156 0.004        
 STRAW                                                                                                       STRAW              12   0     0.025 0.004        
 WOOD                                                                                                        WOOD               13   0     0.025 0.004        
 WOODCHIPS                                                                                                   WOODCHIPS          14   0     0.025 0.004        

@@ -2549,3 +2549,11 @@ AGKN('UK_A','GNR_ST_NUCL_CND_E-33') = YES;
 
 AGKN(AAA,'GNR_RES_WTR_PMP_E-80_Y-2020')=0;
 AGKN(AAA,'GNR_RES_WTR_PMP_MC-01')=0;
+
+
+
+*CCS Municipal waste Théo
+$ifi %CCS%==yes AGKN(AAA,'GNR_ST_MSWCCS_CND_E-23_LS-220-MW-FEED_Y-2020') = YES;                                                                                                                                                                                                                                                                                                  
+$ifi %CCS%==yes AGKN(AAA,'GNR_ST_MSWCCS_CND_E-24_LS-220-MW-FEED_Y-2030') = YES;                                                                                                                                                                                                                                                                                                    
+$ifi %CCS%==yes AGKN(AAA,'GNR_ST_MSWCCS_CND_E-25_LS-220-MW-FEED_Y-2040') = YES;                                                                                                                                                                                                                                                                                                    
+$ifi %CCS%==yes AGKN(AAA,'GNR_ST_MSWCCS_CND_E-25_LS-220-MW-FEED_Y-2050') = YES;
